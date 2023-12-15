@@ -1,0 +1,14 @@
+.InfoBox{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.footer{
+    border: 2px solid black;
+    border-radius: 2rem;
+}
+
+CardContent{
+    background-color: pink;
+}
+

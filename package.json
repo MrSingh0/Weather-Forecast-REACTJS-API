@@ -26,5 +26,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
     "vite": "^5.0.0"
-  }
+  },
+  "homepage": "https://MrSingh0.github.io/Weather-Forecast-REACTJS-API"
 }

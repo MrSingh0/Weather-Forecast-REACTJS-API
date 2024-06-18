@@ -11,7 +11,7 @@ export default function SearchBox({ updateInfo }) {
 
 
     const url = "http://api.openweathermap.org/data/2.5/weather"
-    const key = process.env.api_key;
+    const key = process.env.REACT_KEY;
     console.log(key);
     // a28a24054f662ef99e8052e61e8eb048
 

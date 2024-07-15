@@ -4,6 +4,10 @@
 <b>Deploy: </b> https://weather-forecast-reactjs-api-kwb2.vercel.app/
 
 
+![image](https://github.com/user-attachments/assets/3a828230-0d41-4aca-98fc-c948c88002c4)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

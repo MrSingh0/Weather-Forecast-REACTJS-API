@@ -7,12 +7,15 @@ Please have a look <b>Deploy: </b> https://weather-forecast-reactjs-api-kwb2.ver
 ![image](https://github.com/user-attachments/assets/76817054-943c-4f25-aaf0-9485ca388d3d)
 
 ## Technology Used:
--React Js
--CSS
--Vite
--Material UI
+- .React Js
+- CSS
+- VITE
+- MATERIAL UI
 
+## API: 
+<b>Open Weather:</b> https://openweathermap.org/api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## License:
+This project is licensed under the [MIT License](./LICENSE).
 
 
